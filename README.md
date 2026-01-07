@@ -1,6 +1,6 @@
 # Nutriscore-impact
 
-![Aperçu du Dashboard]
+[Aperçu du Dashboard]
 (lien_vers_votre_image_ou_screenshot_looker.png)
 
 ## 📌 Résumé du Projet
