@@ -17,7 +17,7 @@ Hypothèses analysées :
 * **Stockage & Requêtage :** Google BigQuery (SQL)
 * **Analyse & Nettoyage :** Python (Pandas, Numpy, SKlearn) via Google Colab & VSCode
 * **Visualisation :** Looker Studio
-* **Source des données :** [[Openfood facts @huggingface]([url](https://huggingface.co/datasets/openfoodfacts/product-database))]
+* **Source des données :** [[Openfood facts @huggingface](https://huggingface.co/datasets/openfoodfacts/product-database)]
 
 ---
 
@@ -31,7 +31,7 @@ Hypothèses analysées :
 ## 🚀 Résultats Clés
 * **Insight 1 :** Malgré un impact évident sur les ventes (+7% pour les produits label A/B ; -3,4% pour les produits label D/E), on n'observe pas de différence de composition dans les pays ayant adopté la notation européenne NutriScore.
 * **Insight 2 :** Les teneurs en Sel et en additifs sont les éléments les plus impactants sur la notation finale du NutriScore. En diminuant ces valeurs de quelques grammes, on peut impacter positivement la notation d'un produit.
-* **Lien direct :** [🔗 Consulter le Dashboard Interactif Looker Studio]([LIEN_PUBLIC]([url](https://lookerstudio.google.com/reporting/38fc0190-df00-4336-9944-7a4821fe0913)))
+* **Lien direct :** [🔗 Consulter le Dashboard Interactif Looker Studio(https://lookerstudio.google.com/reporting/38fc0190-df00-4336-9944-7a4821fe0913)]
 
 ---
 
