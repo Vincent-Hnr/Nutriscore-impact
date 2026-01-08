@@ -1,7 +1,6 @@
 # Nutriscore-impact
 
-[Aperçu du Dashboard]
-(lien_vers_votre_image_ou_screenshot_looker.png)
+![Aperçu du Dashboard](assets/ns_cover.png)
 
 ## 📌 Résumé du Projet
 Etudier l'impact du NutriScore sur la composition des produits et leur stratégie de distribution.
