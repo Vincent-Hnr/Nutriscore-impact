@@ -42,4 +42,4 @@ Hypothèses analysées :
 ---
 
 ## 📬 Contact
-[Vincent Henrion]
+[[Vincent Henrion](https://www.linkedin.com/in/vincent-henrion/)]
