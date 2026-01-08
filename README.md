@@ -4,6 +4,7 @@
 
 ## 📌 Résumé du Projet
 Etudier l'impact du NutriScore sur la composition des produits et leur stratégie de distribution.
+On imagine un cabinet de consulting "*FoodSmart*" qui utilise la data pour aiders les acteurs du food industry à positionner leur produits selon leur composition, et à identifier les marchés les plus porteurs en fonction de la composition moyenne des produits distribués.
 
 Hypothèses analysées : 
 - Est ce que les fabricants changent la composition de leur produit dans les pays ou le NutriScore est actif pour avoir une meilleur note ?
